@@ -1,0 +1,152 @@
+html{
+    background-color: black;
+    position: relative;
+}
+#belly
+{
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    border-radius: 0 0 20px 20px;
+    position: absolute;
+    align-self: center;
+    margin-left: 200px;
+    margin-top: 300px;
+ 
+}
+#head
+{
+    background-color: green;
+    height: 50px;
+    width: 150px;
+    border-radius: 1000px 1000px 00px 00px;
+    position:absolute;
+    margin-left: 200px;
+    margin-top: 239px;
+}
+#lines
+{
+    background-color: green;
+    height: 40px;
+    width: 5px;
+  position: absolute;
+    margin-left: 315px;
+    margin-top: 220px;
+    transform: rotate(30deg);
+    
+}
+#lines2
+{
+    background-color: green;
+    height: 40px;
+    width: 5px;
+  position: absolute;
+    margin-left: 230px;
+    margin-top: 220px;
+    transform: rotate(-30deg);
+}
+#eye1
+{
+    background-color: whitesmoke;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 235px;
+}
+#eye2
+{
+    background-color: whitesmoke;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 300px;
+}
+#hand1
+{
+background-color: green;
+height: 110px;
+width: 35px;
+border-radius: 50px ;
+position: absolute;
+margin-top: 300px;
+margin-left: 156px;
+}
+#hand2
+{
+background-color: green;
+height: 110px;
+width: 37px;
+border-radius: 50px ;
+position: absolute;
+margin-top: 300px;
+margin-left: 358px;
+}
+
+#leg1
+{
+    background-color: green;
+position: absolute;
+height: 110px;
+width: 37px;
+margin-top: 415px;
+margin-left: 225px;
+border-radius: 0 0 20px 20px;
+
+}
+
+
+
+#leg2
+{
+    background-color: green;
+position: absolute;
+height: 110px;
+width: 37px;
+margin-top: 415px;
+margin-left: 286px;
+border-radius: 0 0 20px 20px;
+
+}
+h1{
+    color: aliceblue;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    color: aliceblue;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2::first-letter
+{
+    color: green;
+    font-size: 80px;
+    font-weight: 100px;
+    text-transform: lowercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1::first-letter
+{
+    color: green;
+    font-size: 100px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#wwe{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 420px;
+}
+#Jena
+{
+    position: absolute;
+margin-top: 300px;
+margin-left: 420px;
+
+}
